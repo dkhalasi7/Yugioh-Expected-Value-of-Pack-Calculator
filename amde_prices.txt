@@ -1,0 +1,450 @@
+ "Infernoble Arms - Durendal"
+Rare
+AMDE-EN042
+$0.09
+—
+View
+ ALERT!
+Ultra Rare
+AMDE-EN010
+$3.78
+—
+View
+ Armed Protector Dragon
+Rare
+AMDE-EN047
+$0.03
+—
+View
+ Card Trooper
+Rare
+AMDE-EN046
+$0.11
+—
+View
+ Card Trooper (CR)
+Collector's Rare
+AMDE-EN046
+$21.25
+—
+View
+ CONTAIN!
+Rare
+AMDE-EN011
+$0.10
+—
+View
+ Double-Edged Sword
+Rare
+AMDE-EN043
+$0.11
+—
+View
+ Epurrely Beauty
+Super Rare
+AMDE-EN015
+$0.19
+—
+View
+ Epurrely Happiness
+Rare
+AMDE-EN014
+$0.07
+—
+View
+ Epurrely Plump
+Super Rare
+AMDE-EN016
+$0.22
+—
+View
+ Expurrely Happiness
+Super Rare
+AMDE-EN017
+$0.14
+—
+View
+ Expurrely Happiness (CR)
+Collector's Rare
+AMDE-EN017
+$19.40
+—
+View
+ Expurrely Noir
+Super Rare
+AMDE-EN018
+$0.22
+—
+View
+ Expurrely Noir (CR)
+Collector's Rare
+AMDE-EN018
+$74.07
+—
+View
+ EXTINGUISH!
+Rare
+AMDE-EN012
+$0.10
+—
+View
+ Gizmek Naganaki, the Sunrise Signaler
+Rare
+AMDE-EN037
+$0.06
+—
+View
+ Gizmek Orochi, the Serpentron Sky Slasher
+Rare
+AMDE-EN048
+$0.11
+—
+View
+ Gizmek Orochi, the Serpentron Sky Slasher (CR)
+Collector's Rare
+AMDE-EN048
+$19.17
+—
+View
+ Ha-Re the Sword Mikanko
+Super Rare
+AMDE-EN025
+$0.29
+—
+View
+ Ha-Re the Sword Mikanko (CR)
+Collector's Rare
+AMDE-EN025
+$65.74
+—
+View
+ Heavenly Gate of the Mikanko
+Ultra Rare
+AMDE-EN028
+$1.16
+—
+View
+ Hidden Armory
+Rare
+AMDE-EN041
+$0.08
+—
+View
+ Immortal Phoenix Gearfried
+Super Rare
+AMDE-EN049
+$0.43
+—
+View
+ Infernoble Knight - Renaud
+Super Rare
+AMDE-EN038
+$1.01
+—
+View
+ Infernoble Knight - Renaud (CR)
+Collector's Rare
+AMDE-EN038
+$49.40
+—
+View
+ Infernoble Knight - Roland
+Rare
+AMDE-EN050
+$0.20
+—
+View
+ Isolde, Two Tales of the Noble Knights
+Super Rare
+AMDE-EN052
+$0.33
+—
+View
+ Isolde, Two Tales of the Noble Knights (CR)
+Collector's Rare
+AMDE-EN052
+$73.53
+—
+View
+ Limiter Removal
+Rare
+AMDE-EN053
+$0.12
+—
+View
+ Machine Duplication
+Rare
+AMDE-EN054
+$0.12
+—
+View
+ Mikanko Fire Dance
+Super Rare
+AMDE-EN030
+$0.23
+—
+View
+ Mikanko Kagura
+Rare
+AMDE-EN034
+$0.13
+—
+View
+ Mikanko Promise
+Rare
+AMDE-EN035
+$0.11
+—
+View
+ Mikanko Purification Dance
+Rare
+AMDE-EN031
+$0.10
+—
+View
+ Mikanko Reflection Rondo
+Rare
+AMDE-EN033
+$0.16
+—
+View
+ Mikanko Reflection Rondo (CR)
+Collector's Rare
+AMDE-EN033
+$31.17
+—
+View
+ Mikanko Rivalry
+Rare
+AMDE-EN036
+$0.11
+—
+View
+ Mikanko Water Arabesque
+Ultra Rare
+AMDE-EN032
+$9.57
+—
+View
+ My Friend Purrely
+Ultra Rare
+AMDE-EN020
+$16.61
+—
+View
+ My Friend Purrely (CR)
+Collector's Rare
+AMDE-EN020
+$83.64
+—
+View
+ Ni-Ni the Mirror Mikanko
+Super Rare
+AMDE-EN026
+$0.26
+—
+View
+ Ni-Ni the Mirror Mikanko (CR)
+Collector's Rare
+AMDE-EN026
+$30.43
+—
+View
+ Ohime the Manifested Mikanko
+Ultra Rare
+AMDE-EN027
+$13.94
+—
+View
+ One for One
+Super Rare
+AMDE-EN040
+$0.57
+—
+View
+ One for One (CR)
+Collector's Rare
+AMDE-EN040
+$46.85
+—
+View
+ Overlay Regen
+Super Rare
+AMDE-EN056
+$0.09
+—
+View
+ Piri Reis Map
+Rare
+AMDE-EN059
+$0.10
+—
+View
+ Preparation of Rites
+Rare
+AMDE-EN055
+$0.18
+—
+View
+ Purrely
+Ultra Rare
+AMDE-EN013
+$18.70
+—
+View
+ Purrely (CR)
+Collector's Rare
+AMDE-EN013
+$112.08
+—
+View
+ Purrely Delicious Memory
+Rare
+AMDE-EN023
+$0.12
+—
+View
+ Purrely Happy Memory
+Rare
+AMDE-EN021
+$0.13
+—
+View
+ Purrely Pretty Memory
+Ultra Rare
+AMDE-EN022
+$15.09
+—
+View
+ Purrely Pretty Memory (CR)
+Collector's Rare
+AMDE-EN022
+$76.16
+—
+View
+ Purrelyeap!?
+Rare
+AMDE-EN024
+$0.09
+—
+View
+ Reinforcement of the Army
+Rare
+AMDE-EN039
+$0.16
+—
+View
+ RESCUE!
+Ultra Rare
+AMDE-EN009
+$2.93
+—
+View
+ Rescue-ACE Air Lifter
+Rare
+AMDE-EN002
+$0.15
+—
+View
+ Rescue-ACE Fire Attacker
+Rare
+AMDE-EN005
+$0.13
+—
+View
+ Rescue-ACE Fire Engine
+Super Rare
+AMDE-EN006
+$0.23
+—
+View
+ Rescue-ACE HQ
+Rare
+AMDE-EN008
+$0.09
+—
+View
+ Rescue-ACE Hydrant
+Ultra Rare
+AMDE-EN004
+$43.85
+—
+View
+ Rescue-ACE Hydrant (CR)
+Collector's Rare
+AMDE-EN004
+$80.08
+—
+View
+ Rescue-ACE Impulse
+Super Rare
+AMDE-EN001
+$0.47
+—
+View
+ Rescue-ACE Monitor
+Super Rare
+AMDE-EN003
+$0.19
+—
+View
+ Rescue-ACE Turbulence
+Ultra Rare
+AMDE-EN007
+$7.97
+—
+View
+ Rescue-ACE Turbulence (CR)
+Collector's Rare
+AMDE-EN007
+$53.01
+—
+View
+ Sacred Scrolls of the Gizmek Legend
+Rare
+AMDE-EN058
+$0.07
+—
+View
+ Sauravis, the Ancient and Ascended
+Rare
+AMDE-EN051
+$0.19
+—
+View
+ Sprite's Blessing
+Rare
+AMDE-EN057
+$0.04
+—
+View
+ Stray Purrely Street
+Rare
+AMDE-EN019
+$0.11
+—
+View
+ The Great Mikanko Ceremony
+Rare
+AMDE-EN029
+$0.13
+—
+View
+ Xyz Import
+Rare
+AMDE-EN044
+$0.04
+—
+View
+ Xyz Reborn
+Rare
+AMDE-EN060
+$0.05
+—
+View
+ Xyz Tribalrivals
+Rare
+AMDE-EN045
+$0.04
+—
+View
